@@ -76,10 +76,10 @@ time.sleep(3)
 # STEP 02
 # Complete MLSPIN login form
 username_field = driver.find_element(By.NAME, "user_name")
-username_field.send_keys("bb904892")
+username_field.send_keys("UPDATE_ME")
 
 password_field = driver.find_element(By.NAME, "pass")
-password_field.send_keys("R!ck1234")
+password_field.send_keys("UPDATE_ME")
 
 signin_button = driver.find_element(By.CLASS_NAME, "mls-js-submit-btn")
 signin_button.click()
