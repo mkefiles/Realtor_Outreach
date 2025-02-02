@@ -1,0 +1,102 @@
+{
+	"alyssa": {
+		"subject": [
+			"$NAME, Health Connector Isn't Your Only Option",
+			"$NAME, Group-rate Health Insurance for Realtors",
+			"$NAME, Are You Happy with Your Health Insurance?"
+		],
+		"intro": [
+			"Hey $NAME,\n\n",
+			"Hi $NAME,\n\n",
+			"Good morning $NAME,\n\n"
+		],
+		"main": [
+			"My mother-in-law is a realtor and she told me that, as a 1099 worker, she doesn't receive any benefits and her health insurance costs a fortune.\n\n",
+			"My mother-in-law, a realtor, has told me, as a 1099 worker, she does not receive any benefits and her health insurance costs a fortune.\n\n",
+			"My mother-in-law is a realtor and has told me, as a 1099 worker, she does not have access to benefits and her health insurance is barely useful.\n\n"
+		],
+		"scenario":[
+			"She pays about $1,400/month for her and my father-in-law, and they need to pay around $10k out of pocket before insurance really kicks in.\n\n",
+			"She mentioned paying about $1,400 per month for her and my father-in-law and needing to spend over $10k out-of-pocket before insurance really kicks in.\n\n",
+			"She mentioned needing to spend over $10k out-of-pocket for her and my father-in-law, before insurance really kicks in. And that's after paying $1,400/month in premiums.\n\n"
+		],
+		"segue": [
+			"INSANE. I know, sadly, she isn't alone. Does that sound like you?\n\n",
+			"CRAZY. I know, sadly, she is not alone. Are you going through the same scenario?\n\n",
+			"INSANE. Sadly, I know she is not alone. Does that sound like you?\n\n"
+		],
+		"offer": [
+			"GOOD NEWS. My husband (her son) and I are brokers that help everyday people with affordable insurance options. Recently, we came across options for 1099 workers like you, at group rates!\n\n",
+			"GOOD NEWS. Both my husband and I are brokers that help everyday people with affordable insurance options. Recently, we came across options for 1099 workers, like you, at group rates!\n\n",
+			"GOOD NEWS. My husband (her son) and I are brokers that help people everyday with affordable insurance options. Recently we came across options for 1099 workers, like you, at group rates!\n\n"
+		],
+		"cta": [
+			"If you'd like to learn more, please reply to this email and I'll send you a link to our site.\n\n",
+			"If you're' interested in learning more, please reply to this email and I'll send you a link to our site.\n\n",
+			"Want to learn more? Please reply to this email and I'll send you a link to our site.\n\n"
+		],
+		"additional_info": [
+			"You'll see options aside from health insurance that may be of interest to you, as well.\n\n",
+			"You'll see more options aside from health insurance that may interest you, as well.\n\n",
+			"You will see options aside from health insurance that may interest you, as well.\n\n"
+		],
+		"ps":[
+			"Note that we do have options that include a Health Savings Account as well as a $0 Deductible plan through Blue Cross Blue Shield.\n\n"
+		],
+		"ending": [
+			"We look forward to helping you,\nAlyssa",
+			"We look forward to showing you your options,\nAlyssa",
+			"We look forward to providing you actually useful options,\nAlyssa"
+		]
+	},
+	"mike": {
+		"subject": [
+			"$NAME, Health Connector Isn't Your Only Option",
+			"$NAME, Group-rate Health Insurance for Realtors",
+			"$NAME, Are You Happy with Your Health Insurance?"
+		],
+		"intro": [
+			"Hey $NAME,\n\n",
+			"Hi $NAME,\n\n",
+			"Good morning $NAME,\n\n"
+		],
+		"main": [
+			"My mother is a realtor and she told me that, as a 1099 worker, she doesn't receive any benefits and her health insurance costs a fortune.\n\n",
+			"My mother, a realtor, has told me as a 1099 worker, she does not receive any benefits and her health insurance costs a fortune.\n\n",
+			"My mother is a realtor and has told me, as a 1099 worker, she does not receive any benefits and her health insurance is barely useful.\n\n"
+		],
+		"scenario":[
+			"She pays about $1,400/month, for her and my father, and they need to pay around $10k out of pocket before insurance really kicks in.\n\n",
+			"She mentioned paying about $1,400 per month for her and my father and needing to spend over $10k out-of-pocket before insurance really kicks in.\n\n",
+			"She mentioned needing to spend over $10k out-of-pocket, for her and my father, before insurance really kicks in. And that's after paying $1,400/month in premiums.\n\n"
+		],
+		"segue": [
+			"INSANE. I know, sadly, she isn't alone. Does that sound like you?\n\n",
+			"CRAZY. I know and, sadly, she is not alone. Are you going through the same scenario?\n\n",
+			"INSANE. Sadly, I know she is not alone. Does that sound like you?\n\n"
+		],
+		"offer": [
+			"GOOD NEWS. My wife and I are brokers that help everyday people with affordable insurance options. Recently we came across options for 1099 workers, like you, at group rates!\n\n",
+			"GOOD NEWS. Both my wife and I are brokers that help everyday people with affordable insurance options. Recently we came across options for 1099 workers, like you, at group rates!\n\n",
+			"GOOD NEWS. My wife and I are brokers that help people everyday with affordable insurance options. We recently came across options for 1099 workers, like you, at group rates!\n\n"
+		],
+		"cta": [
+			"If you'd like to learn more, please reply to this email and I'll send you a link to our site.\n\n",
+			"If you're interested in learning more, please reply to this email and I'll send you a link to our site.\n\n",
+			"Want to learn more? Please reply to this email and I'll send you a link to our site.\n\n"
+		],
+		"additional_info": [
+			"You'll see options aside from health insurance that may be of interest to you, as well.\n\n",
+			"You'll see more options aside from health insurance that may interest you, as well.\n\n",
+			"You will see options aside from health insurance that may interest you, as well.\n\n"
+		],
+		"ps":[
+			"Note that we do have options that include a Health Savings Account as well as a $0 Deductible plan through Blue Cross Blue Shield.\n\n"
+		],
+		"ending": [
+			"We look forward to helping you,\nMike",
+			"We look forward to showing you your options,\nMike",
+			"We look forward to providing you actually useful options,\nMike"
+		]
+	}
+}
